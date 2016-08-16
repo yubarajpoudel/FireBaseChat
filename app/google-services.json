@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "474898027734",
+    "firebase_url": "https://chatapplicaiton.firebaseio.com",
+    "project_id": "chatapplicaiton",
+    "storage_bucket": "chatapplicaiton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474898027734:android:c9aeec16857278aa",
+        "android_client_info": {
+          "package_name": "com.yuvi.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474898027734-pvp6asuog36lqbmsspoqom8vuc95vuu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yuvi.chatapplication",
+            "certificate_hash": "A27F8AD1933F8B1D08AD7B35F434EA8FDFDF0EC4"
+          }
+        },
+        {
+          "client_id": "474898027734-ci79orgcml19rbhk9d45gr4isttkqqa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTUf60W9vEPITXmr-2KqfcDfHna11_AyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474898027734-ci79orgcml19rbhk9d45gr4isttkqqa9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
